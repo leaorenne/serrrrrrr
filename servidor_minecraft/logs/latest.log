@@ -1,0 +1,81 @@
+[04:18:41] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[04:18:41] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[04:18:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/serrrrrrr/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:18:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:18:47] [main/INFO]: Loaded 7 recipes
+[04:18:47] [main/INFO]: Loaded 1271 advancements
+[04:18:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:18:47] [Server thread/INFO]: Loading properties
+[04:18:47] [Server thread/INFO]: Default game type: SURVIVAL
+[04:18:47] [Server thread/INFO]: Generating keypair
+[04:18:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:18:47] [Server thread/INFO]: Using epoll channel type
+[04:18:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:18:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:18:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:18:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:18:48] [Server thread/INFO]: Preparing level "world"
+[04:18:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:18:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[04:18:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[04:18:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[04:18:57] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[04:18:57] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[04:18:58] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[04:18:58] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[04:18:59] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[04:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[04:19:00] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[04:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[04:19:01] [Worker-Main-1/INFO]: Preparing spawn area: 16%
+[04:19:01] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[04:19:02] [Worker-Main-2/INFO]: Preparing spawn area: 20%
+[04:19:02] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[04:19:03] [Worker-Main-3/INFO]: Preparing spawn area: 23%
+[04:19:03] [Worker-Main-1/INFO]: Preparing spawn area: 25%
+[04:19:04] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[04:19:04] [Worker-Main-3/INFO]: Preparing spawn area: 30%
+[04:19:05] [Worker-Main-2/INFO]: Preparing spawn area: 33%
+[04:19:05] [Worker-Main-1/INFO]: Preparing spawn area: 36%
+[04:19:06] [Worker-Main-3/INFO]: Preparing spawn area: 39%
+[04:19:06] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[04:19:07] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[04:19:07] [Worker-Main-1/INFO]: Preparing spawn area: 47%
+[04:19:08] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[04:19:08] [Worker-Main-3/INFO]: Preparing spawn area: 54%
+[04:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 56%
+[04:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[04:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 63%
+[04:19:10] [Worker-Main-2/INFO]: Preparing spawn area: 66%
+[04:19:11] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[04:19:11] [Worker-Main-1/INFO]: Preparing spawn area: 72%
+[04:19:12] [Worker-Main-2/INFO]: Preparing spawn area: 75%
+[04:19:12] [Worker-Main-1/INFO]: Preparing spawn area: 78%
+[04:19:13] [Worker-Main-2/INFO]: Preparing spawn area: 81%
+[04:19:13] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[04:19:14] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[04:19:14] [Worker-Main-3/INFO]: Preparing spawn area: 89%
+[04:19:15] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[04:19:15] [Worker-Main-3/INFO]: Preparing spawn area: 96%
+[04:19:16] [Server thread/INFO]: Time elapsed: 21930 ms
+[04:19:16] [Server thread/INFO]: Done (28.239s)! For help, type "help"
+[04:20:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:20:18] [Server thread/INFO]: <--[HERE]
+[04:20:22] [Server thread/INFO]: Stopping the server
+[04:20:22] [Server thread/INFO]: Stopping server
+[04:20:22] [Server thread/INFO]: Saving players
+[04:20:22] [Server thread/INFO]: Saving worlds
+[04:20:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:20:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:20:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:20:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
